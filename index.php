@@ -3,8 +3,11 @@
 <head>
 	<title></title>
 </head>
-<body  background="red">
-	<p>lorem impsum imsolmne</p>
+<body  background="blue " >
+	<header>
+		<h3>BIENVENIDO A REMOLACHA</h3>
+		<p>lorem impsum lorem impsum</p>
+	</header>
 <?php
 
 echo "Bienvenido a mi repositorio";
