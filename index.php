@@ -7,7 +7,7 @@
 
 <?php
 
-echo "Bienvenido ";
+echo "Bienvenido a mi repositorio";
 
 
 
